@@ -1,0 +1,13 @@
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.exe
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.deps.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.runtimeconfig.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.dll
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\A5_2.pdb
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.dll
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.pdb
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\A5_2.csprojAssemblyReference.cache
