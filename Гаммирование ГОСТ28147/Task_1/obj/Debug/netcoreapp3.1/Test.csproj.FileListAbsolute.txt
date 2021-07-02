@@ -1,0 +1,91 @@
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Task_1\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Task_1\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\RSA\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\RSA\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Elgamal\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-94\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\ГОСТ Р 34.10-2012\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Вертикальная\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aleksey\Desktop\Гаммирование ГОСТ28147\Task_1\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
