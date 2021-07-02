@@ -1,0 +1,12 @@
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Aleksey\Desktop\Final\Final\bin\Debug\Final.exe
+C:\Users\Aleksey\Desktop\Final\Final\bin\Debug\Final.pdb
+C:\Users\Aleksey\Desktop\Final\Final\bin\Debug\MaterialSkin.dll
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.exe
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.pdb
+C:\Users\Aleksey\Desktop\Final\Final\obj\Debug\Final.MainForm.resources
